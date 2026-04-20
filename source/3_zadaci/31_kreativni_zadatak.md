@@ -1,42 +1,42 @@
-# Креативни задатак - дизајнирајте кампању!
+# Tasca creativa - dissenyeu una campanya!
 
 
-## Опис задатка
+## Descripció de la tasca
 
-Након спроведене анкете о здравим навикама ученика и анализе прикупљених података, ваш задатак је да изаберете један резултат и прикажете га кроз креативну кампању.
+Després de realitzar una enquesta sobre els hàbits saludables dels alumnes i analitzar les dades recollides, la vostra tasca és triar un resultat i presentar-lo a través d'una campanya creativa.
 
-- Анализирајте податке применом пивот табела и графика и издвојте једну или више чињеница које сматрате значајним
-- Осмислите слоган (кратак, јасан, позитиван)
-- Направите инфографику
-- Презентујте резултат одељењу
+- Analitzeu les dades aplicant taules dinàmiques i gràfics i destaqueu un o més fets que considereu significatius
+- Creeu un eslògan (curt, clar, positiu)
+- Elaboreu una infografia
+- Presenteu el resultat a la classe
 
-![Kampanja](kampanja.png)
+![Campanya](kampanja.png)
 
 ```{infonote}
-Подсетник за добру сарадњу у групи
+Recordatori per a una bona col·laboració en grup
 
-- Слушамо једни друге.
-- Свако има прилику да допринесе.
-- Делимо задатке договором.
-- Одлуке доносимо заједно.
-- Помажемо једни другима.
+- Ens escoltem els uns als altres.
+- Tothom té l'oportunitat de contribuir.
+- Repartim les tasques de comú acord.
+- Prenem les decisions conjuntament.
+- Ens ajudem els uns als altres.
 ```
 
-## Савети за добар визуелни приказ података (инфографику)
-- Боје: 2–3 максимално (црвена, зелена, плава/сива)
-- Типографија: слоган највећи, бројеви средње величине, објашњење најмање
-- График: увек укључити пивот график
-- Позив на акцију: конкретан корак
+## Consells per a una bona representació visual de dades (infografia)
+- Colors: 2–3 com a màxim (vermell, verd, blau/gris)
+- Tipografia: l'eslògan el més gran, els nombres de mida mitjana, l'explicació la més petita
+- Gràfic: incloure sempre un gràfic dinàmic
+- Crida a l'acció: un pas concret
 
-## Критеријуми оцењивања
-- Тачност података – 30 бодова
-- Јасноћа поруке – 25 бодова
-- Креативност слогана – 20 бодова
-- Визуелни дизајн – 15 бодова
-- Презентација – 10 бодова
+## Criteris d'avaluació
+- Exactitud de les dades – 30 punts
+- Claredat del missatge – 25 punts
+- Creativitat de l'eslògan – 20 punts
+- Disseny visual – 15 punts
+- Presentació – 10 punts
 
 
-## Линк ка месту за постављање урађених инфографика
+## Enllaç al lloc per publicar les infografies elaborades
 
-[Погледај радове или постави свој рад](https://shorturl.at/wG4WQ)
+[Consulta els treballs o publica el teu](https://shorturl.at/wG4WQ)
 

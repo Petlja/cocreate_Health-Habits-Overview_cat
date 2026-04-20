@@ -1,140 +1,139 @@
-# Проверите своје знање
+# Comproveu els vostres coneixements
 
 ```{mchoice}
-:answer1: Збир свих података у табели
-:answer2: Оса или тачка обртања — табела мења угао погледа на податке 
-:answer3: Назив програмског језика за анализу података
-:answer4: Табела која аутоматски црта графиконе
+:answer1: La suma de totes les dades de la taula
+:answer2: Eix o punt de gir — la taula canvia l'angle de visió de les dades
+:answer3: Nom d'un llenguatge de programació per a l'anàlisi de dades
+:answer4: Una taula que dibuixa gràfics automàticament
 :correct: 2
 
-1. Шта значи реч 'пивот' у контексту пивот табела?
+1. Què significa la paraula 'pivot' en el context de les taules dinàmiques?
 ```
 
 ```{mchoice}
-:answer1: Стубичасти графикон
-:answer2: Линијски графикон
-:answer3: Пита (кружни) графикон
-:answer4: Структурни графикон са прелазним сегментима
+:answer1: Gràfic de barres
+:answer2: Gràfic de línies
+:answer3: Gràfic circular (de sectors)
+:answer4: Gràfic estructural amb segments de transició
 :correct: 3
 
-2. Који тип графикона је најпогоднији за приказ удела појединих категорија у целини?
+2. Quin tipus de gràfic és més adequat per mostrar la proporció de cada categoria en el total?
 ```
 
 ```{mchoice}
-:answer1: Тачно
-:answer2: Нетачно
+:answer1: Cert
+:answer2: Fals
 :correct: 2
 
-3. Када додамо нове редове у оригиналну табелу података, пивот табела се аутоматски ажурира.
+3. Quan afegim noves files a la taula de dades original, la taula dinàmica s'actualitza automàticament.
 ```
 
 ```{mchoice}
-:answer1: Пивот табела служи искључиво за цртање компликованих графикона
-:answer2: Пивот табела омогућава брзу реорганизацију и сумирање великих количина података без формула
-:answer3: Пивот табела омогућава аутоматско форматирање боја у ћелијама
-:answer4: Пивот табела аутоматски поправља словне грешке у изворном фајлу
-:correct: 1
-
-4. Која је главна предност пивот табеле у односу на обичну табелу са подацима?
-```
-
-```{mchoice}
-:answer1: Редови (Rows)
-:answer2: Колоне (Columns)
-:answer3: Вредности (Values)
-:answer4: Филтери (Filters)
+:answer1: La taula dinàmica serveix exclusivament per dibuixar gràfics complexos
+:answer2: La taula dinàmica permet reorganitzar i resumir ràpidament grans quantitats de dades sense fórmules
+:answer3: La taula dinàmica permet el format automàtic de colors a les cel·les
+:answer4: La taula dinàmica corregeix automàticament els errors ortogràfics al fitxer d'origen
 :correct: 2
 
-5. Где у едитору убацујете polje 'Спавање' ако хоћете 
-да категорије спавања буду у левој колони табеле?
+4. Quin és el principal avantatge d'una taula dinàmica respecte a una taula de dades normal?
 ```
 
 ```{mchoice}
-:answer1: Различито писање успорава рачунар
-:answer2: Пивот табела сваку варијанту писања третира као посебну категорију 
-:answer3: Пивот табела чита само одређене фонтове
-:answer4: Excel аутоматски конвертује све текстове у бројеве
+:answer1: Files (Rows)
+:answer2: Columnes (Columns)
+:answer3: Valors (Values)
+:answer4: Filtres (Filters)
 :correct: 2
 
-6. Зашто је важно да у оригиналној табели сви одговори буду писани на исти начин?
+5. On a l'editor poseu el camp 'Son' si voleu que les categories de son apareguin a la columna esquerra de la taula?
 ```
 
 ```{mchoice}
-:answer1: Редови (Rows)
-:answer2: Колоне (Columns)
-:answer3: Вредности (Values)
-:answer4: Филтери (Filters)
+:answer1: L'escriptura diferent alenteix l'ordinador
+:answer2: La taula dinàmica tracta cada variant d'escriptura com una categoria independent
+:answer3: La taula dinàmica només llegeix determinades fonts
+:answer4: Excel converteix automàticament tots els textos en nombres
+:correct: 2
+
+6. Per què és important que a la taula original totes les respostes estiguin escrites de la mateixa manera?
+```
+
+```{mchoice}
+:answer1: Files (Rows)
+:answer2: Columnes (Columns)
+:answer3: Valors (Values)
+:answer4: Filtres (Filters)
 :correct: 3
 
-7. У које зону пивот табеле би превукао/превукла поље "Цена" ако желиш да израчунаш укупну зараду?
+7. A quina zona de la taula dinàmica arrossegaríeu el camp "Preu" si voleu calcular els ingressos totals?
 ```
 
 ```{mchoice}
-:answer1: Пивот табела се аутоматски ажурира
-:answer2: Морате обрисати пивот табелу и направити нову
-:answer3: Подаци у пивот табели ће се аутоматски променити
-:answer4: Потребно је десним кликом изабрати опцију Refresh како би се освежили подаци у пивот табели
+:answer1: La taula dinàmica s'actualitza automàticament
+:answer2: Heu d'esborrar la taula dinàmica i crear-ne una de nova
+:answer3: Les dades de la taula dinàmica canviaran automàticament
+:answer4: Cal fer clic dret i seleccionar l'opció Refresh per actualitzar les dades de la taula dinàmica
 :correct: 4
 
-8. Шта се дешава ако промените вредности у изворној табели након што сте већ направили пивот табелу?
+8. Què passa si canvieu els valors a la taula d'origen després d'haver creat la taula dinàmica?
 ```
 
 ```{mchoice}
-:answer1: Табела не сме да садржи бројеве веће од 1.000.000
-:answer2: Све колоне у табели морају да имају јединствена и јасна заглавља
-:answer3: Табела мора имати најмање 1000 редова
-:answer4: Сви подаци у табели морају бити исписани великим словима
+:answer1: La taula no pot contenir nombres superiors a 1.000.000
+:answer2: Totes les columnes de la taula han de tenir encapçalaments únics i clars
+:answer3: La taula ha de tenir almenys 1000 files
+:answer4: Totes les dades de la taula s'han d'escriure en majúscules
 :correct: 2
 
-9. Који је основни предустлов да би табела могла успешно да се претвори у пивот табелу?
+9. Quin és el requisit bàsic perquè una taula es pugui convertir correctament en una taula dinàmica?
 ```
 
 ```{mchoice}
-:answer1: Редови (Rows)
-:answer2: Колоне (Columns)
-:answer3: Вредности (Values)
-:answer4: Филтери (Filters)
+:answer1: Files (Rows)
+:answer2: Columnes (Columns)
+:answer3: Valors (Values)
+:answer4: Filtres (Filters)
 :correct: 1
 
-10. Ако желите да видите листу свих градова вертикално на левој страни твоје анализе, у коју зону ћете превући поље "Град"?
+10. Si voleu veure la llista de totes les ciutats verticalment a la part esquerra de la vostra anàlisi, a quina zona arrossegareu el camp "Ciutat"?
 ```
 
 ```{mchoice}
-:answer1: Брише их јер не препознаје бројеве
-:answer2: Сабира их као да су бројеви
-:answer3: Пребацује их у формат датума
-:answer4: Броји колико се пута тај текст појављује (Count)
+:answer1: Els esborra perquè no reconeix els nombres
+:answer2: Els suma com si fossin nombres
+:answer3: Els converteix al format de data
+:answer4: Compta quantes vegades apareix aquell text (Count)
 :correct: 4
 
-11. Шта по основним подешавањима ради поље "Values" са текстуалним подацима?
+11. Què fa per defecte el camp "Values" amb les dades de text?
 ```
 
 ```{mchoice}
-:answer1: За приказ расподеле буџета по департманима компаније
-:answer2: Када имамо само један податак који желимо да истакнемо
-:answer3: За поређење висине плате запослених у једном тренутку
-:answer4: За приказ кретања температуре или продаје кроз месеце и године
+:answer1: Per mostrar la distribució del pressupost per departaments d'una empresa
+:answer2: Quan tenim una sola dada que volem destacar
+:answer3: Per comparar els salaris dels empleats en un moment determinat
+:answer4: Per mostrar l'evolució de la temperatura o les vendes al llarg de mesos i anys
 :correct: 4
 
-12. Када је најбоље користити линијски графикон?
+12. Quan és millor utilitzar un gràfic de línies?
 ```
 
 ```{mchoice}
-:answer1: Служи за сортирање података од А до Z
-:answer2: Омогућава промену боје текста у табели
-:answer3: Служи за атоматско брисање дупликата из табеле
-:answer4: Омогућава да привремено сакријемо све податке осим оних који припадају одређеној категорији
+:answer1: Serveix per ordenar les dades de la A a la Z
+:answer2: Permet canviar el color del text a la taula
+:answer3: Serveix per esborrar automàticament els duplicats de la taula
+:answer4: Permet ocultar temporalment totes les dades excepte les que pertanyen a una categoria determinada
 :correct: 4
 
-13. Шта омогућава зона Filters (филтери) у пивот табели?
+13. Què permet la zona Filters (filtres) en una taula dinàmica?
 ```
 
 ```{mchoice}
-:answer1: Да, то се подешава у опцијама поља Values (вредности)
-:answer2: Не, за просек мора да се пише ручно формула поред пивот табеле
-:answer3: Не, пивот табеле могу искључиво да сабирају вредности
-:answer4: Да, али само ако су све вредности позитивне
+:answer1: Sí, es configura a les opcions del camp Values (valors)
+:answer2: No, per calcular la mitjana cal escriure manualment una fórmula al costat de la taula dinàmica
+:answer3: No, les taules dinàmiques només poden sumar valors
+:answer4: Sí, però només si tots els valors són positius
 :correct: 1
 
-14. Да ли пивот табела може да израчуна просек уместо суме?
+14. Pot una taula dinàmica calcular la mitjana en lloc de la suma?
 ```
