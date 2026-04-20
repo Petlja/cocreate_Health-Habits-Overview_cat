@@ -1,35 +1,35 @@
-# Да резимирамо...
+# Resumim...
 
-## Предности коришћења пивота
+## Avantatges de l'ús de les taules dinàmiques
 
-- **Брзина анализе** - Уместо ручног сабирања и писања формула, довољно је да превучемо поља и одмах добијамо збир, просек, број или проценат.
+- **Rapidesa d'anàlisi** - En lloc de sumar manualment i escriure fórmules, n'hi ha prou d'arrossegar camps i obtenim immediatament la suma, la mitjana, el recompte o el percentatge.
 
-- **Флексибилност** - Исте податке можемо да посматрамо по различитим критеријумима (нпр. по данима, по производима, по одељењима) без прављења нових табела.
+- **Flexibilitat** - Podem observar les mateixes dades segons criteris diferents (p. ex. per dies, per productes, per departaments) sense crear noves taules.
 
-- **Нема ручних формула** - Пивот табела сама прави прорачуне, што смањује могућност грешке.
+- **Sense fórmules manuals** - La taula dinàmica fa els càlculs sola, la qual cosa redueix la possibilitat d'errors.
 
-- **Аутоматско ажурирање** - Када се промене подаци у почетној табели, довољно је кликнути на *Refresh* и сви резултати се аутоматски ажурирају.
+- **Actualització automàtica** - Quan canvien les dades de la taula inicial, n'hi ha prou de fer clic a *Refresh* i tots els resultats s'actualitzen automàticament.
 
-- **Једноставно филтрирање података** - Можемо приказати само део података који нас занима (нпр. једно одељење, један производ, један дан).
+- **Filtratge senzill de dades** - Podem mostrar només la part de les dades que ens interessa (p. ex. un departament, un producte, un dia).
 
-- **Директна визуелизација** - Из пивот табеле се једним кликом прави графикон који се такође аутоматски ажурира.
+- **Visualització directa** - Des de la taula dinàmica es crea un gràfic amb un sol clic, que també s'actualitza automàticament.
 
-- **Откривање образаца** - Лако уочавамо шта је највише заступљено, где је највећа вредност, како се подаци мењају кроз време.
+- **Descobriment de patrons** - Detectem fàcilment què és més freqüent, on hi ha el valor màxim, com canvien les dades al llarg del temps.
 
-- **Професионални алат** - Пивот се користи у фирмама за анализу продаје, трошкова, резултата анкета и других великих скупова података.
+- **Eina professional** - Les taules dinàmiques s'utilitzen a les empreses per analitzar vendes, despeses, resultats d'enquestes i altres grans conjunts de dades.
 
-## Честе грешке
+## Errors freqüents
 
-Да би резултати били тачни, важно је да избегнемо грешке. Приликом креирања пивот табеле, обавезно обратите пажњу на следеће:
+Perquè els resultats siguin correctes, és important evitar errors. En crear una taula dinàmica, assegureu-vos de tenir en compte el següent:
 
-- **Недоследно писање вредности** - Исти податак написан на различите начине (нпр. Јабука, јабука, Jabuka) биће приказан као три различите ставке.
+- **Escriptura inconsistent de valors** - La mateixa dada escrita de maneres diferents (p. ex. Poma, poma, Manzana) es mostrarà com a tres elements diferents.
 
-- **Недостају називи колона** - Без јасних назива пивот табела не зна шта треба да анализира.
+- **Manca de noms de columnes** - Sense noms clars, la taula dinàmica no sap què ha d'analitzar.
 
-- **Ручно мењање пивот табеле** - Унутар пивот табеле не сме се додатно ништа уписивати – све промене се раде у почетној табели.
+- **Modificació manual de la taula dinàmica** - Dins de la taula dinàmica no s'hi pot afegir res manualment; tots els canvis es fan a la taula inicial.
 
-- **Заборављено освежавање (*Refresh*)** - После измене података потребно је кликнути на Refresh да би резултати били тачни.
+- **Oblidar l'actualització (*Refresh*)** - Després de modificar les dades cal fer clic a Refresh perquè els resultats siguin correctes.
 
 ```{infonote}
-Анализа података коришћењем пивот табела и графика не само да штеди време и смањује грешке, већ нам омогућава да тренутно уочимо важне информације, донесемо прецизне закључке и ефикасно представимо резултате чак и из веома великог скупа података.
+L'anàlisi de dades mitjançant taules dinàmiques i gràfics no només estalvia temps i redueix errors, sinó que ens permet detectar immediatament informació important, treure conclusions precises i presentar eficaçment els resultats fins i tot d'un conjunt de dades molt gran.
 ```

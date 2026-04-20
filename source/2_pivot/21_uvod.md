@@ -1,26 +1,26 @@
-# Пивот табеле 
+# Taules dinàmiques 
 
-Пивот табела је један од најважнијих алата за анализу података у програмима као што су *Microsoft Excel* и *Google Sheets*. Она омогућава да исте податке „окренемо“ (pivot = окренути) и прикажемо их на нов начин - да их групишемо, пребројимо, израчунамо просеке или упоредимо категорије, без мењања оригиналне табеле. Уместо ручног пребројавања и прављења више помоћних табела, пивот табела омогућава да се одговори добију брзо, прецизно и прегледно. 
+La taula dinàmica és una de les eines més importants per a l'anàlisi de dades en programes com *Microsoft Excel* i *Google Sheets*. Permet "girar" (pivot = girar) les mateixes dades i mostrar-les d'una nova manera: agrupar-les, comptar-les, calcular mitjanes o comparar categories, sense modificar la taula original. En lloc de comptar manualment i crear diverses taules auxiliars, la taula dinàmica permet obtenir respostes de manera ràpida, precisa i clara. 
 
 ```{infonote}
-У кошарци, пивот је играч који једном ногом остаје на месту, а окретањем тела може да дода лопту у различитим правцима. Слично томе, пивот табела користи исте податке, али их „окреће“ и реорганизује тако да их можемо посматрати из различитих углова, у зависности од тога шта желимо да сазнамо.
+En bàsquet, el pivot és el jugador que manté un peu fix al terra i, girant el cos, pot passar la pilota en diverses direccions. De manera similar, la taula dinàmica utilitza les mateixes dades, però les "gira" i reorganitza perquè puguem observar-les des de diferents angles, segons el que vulguem descobrir.
 ```
-Радница у продавници воћа сваког дана бележи сваку продају у табели. За сваку куповину записала је следеће податке:
+Una treballadora d'una fruiteria registra cada dia cada venda en una taula. Per a cada compra ha anotat les dades següents:
 
-![Tabela - prodaja voća](images/table2_sr.png)
+![Taula - venda de fruita](images/table2_sr.png)
 
-Ово су сирови подаци. Из њих не можемо одмах да добијемо одговор на питање, на пример, *Које воће се највише продаје?* или *Да ли купци чешће плаћају готовином или картицом?*
+Aquestes són les dades en brut. A partir d'elles no podem obtenir immediatament una resposta a preguntes com, per exemple, *Quina fruita es ven més?* o *Els clients paguen més sovint en efectiu o amb targeta?*
 
-## Разлика између обичне и пивот табеле
+## Diferència entre una taula simple i una taula dinàmica
 
-У обичној табели можемо да видимо сваку појединачну продају, али ако желимо да сазнамо, на пример, укупну количину продатог воћа сваке врсте, морали бисмо ручно да пронађемо све редове са јабукама и саберемо количине, затим банане, па поморанџе... Код већег броја редова то одузима време и лако долази до грешке.
+En una taula simple podem veure cada venda individual, però si volem saber, per exemple, la quantitat total de cada tipus de fruita venuda, hauríem de trobar manualment totes les files amb pomes i sumar les quantitats, després els plàtans, les taronges... Amb un nombre elevat de files això porta temps i és fàcil cometre errors.
 
-**Пивот табела аутоматски организује и сабира податке.** На пример:
+**La taula dinàmica organitza i suma les dades automàticament.** Per exemple:
 
-![Pivot tabela - prodaja voća](images/table3_sr.png)
+![Taula dinàmica - venda de fruita](images/table3_sr.png)
 
-Овакав приказ омогућава да одмах видимо резултате, без ручног сабирања и без формула.
+Aquesta presentació ens permet veure els resultats immediatament, sense sumar manualment i sense fórmules.
 
 ```{infonote}
-Обична табела приказује појединачне податке. Пивот табела приказује њихов преглед и омогућава анализу.
+La taula simple mostra les dades individuals. La taula dinàmica en mostra el resum i permet l'anàlisi.
 ```
