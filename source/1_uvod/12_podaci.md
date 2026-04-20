@@ -1,21 +1,21 @@
-# Прикупљање података
+# Recollida de dades
 
-## Одакле долазе подаци?
+## D'on provenen les dades?
 
-Пре него што започнемо било какву анализу, први корак је прикупљање података. Без квалитетних података не можемо доћи ни до поузданих закључака. Постоји неколико основних начина да до њих дођемо:
+Abans de començar qualsevol anàlisi, el primer pas és la recollida de dades. Sense dades de qualitat, no podem arribar a conclusions fiables. Hi ha diverses maneres bàsiques d'obtenir-les:
 
-- **Анкета** (упитник) - истa питања постављамо већем броју људи и бележимо њихове одговоре. Ово је најчешћи метод у друштвеним истраживањима.
+- **Enquesta** (qüestionari) - fem les mateixes preguntes a un nombre elevat de persones i registrem les seves respostes. Aquest és el mètode més habitual en la recerca social.
 
-- **Посматрање** - пратимо шта се дешава и бележимо појаве без утицаја на њих (на пример, бројимо колико особа улази у просторију).
+- **Observació** - seguim el que passa i registrem els fenòmens sense influir-hi (per exemple, comptem quantes persones entren a una sala).
 
-- **Мерење** - користимо инструменте како бисмо добили тачне вредности (температура, висина, маса… ).
+- **Mesurament** - utilitzem instruments per obtenir valors precisos (temperatura, alçada, massa…).
 
-- **Експеримент** - намерно мењамо један фактор и пратимо како се то одражава на резултате.
+- **Experiment** - canviem intencionadament un factor i observem com afecta els resultats.
 
-![Prikupljanje podataka](images/podaci.png)
+![Recollida de dades](images/podaci.png)
 
-Током прикупљања података, најчешће добијамо велику количину појединачних вредности, које саме по себи још увек немају јасно значење. У том облику тешко је да их разумемо, упоредимо или из њих уочимо неке правилности. Зато је важно да их добро организујемо и јасно представимо. 
+Durant la recollida de dades, sovint obtenim una gran quantitat de valors individuals que, per si sols, encara no tenen un significat clar. En aquesta forma és difícil comprendre'ls, comparar-los o detectar-hi regularitats. Per aixó és important organitzar-los bé i presentar-los clarament. 
 
 ```{infonote}
-Тек када податке средимо и прикажемо на прегледан начин, они почињу да „говоре“ и постају основа за закључивање.
+Només quan ordenem i presentem les dades d'una manera clara comencen a "parlar" i es converteixen en la base per extreure conclusions.
 ```

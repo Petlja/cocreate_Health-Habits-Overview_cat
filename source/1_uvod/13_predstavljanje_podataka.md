@@ -1,47 +1,47 @@
-# Представљање података
+# Presentació de dades
 
-## Обична табела
+## Taula simple
 
-Најједноставнији начин да уредимо и прикажемо податке јесте да их прикажемо **табелом**.
-Редови представљају појединачне ставке (на пример производе, запослене или месеце), а колоне њихове особине (продата количина, остварен приход и сл.).
+La manera més senzilla d'organitzar i mostrar dades és presentar-les en una **taula**.
+Les files representen elements individuals (per exemple, productes, empleats o mesos), i les columnes les seves característiques (quantitat venuda, ingressos obtinguts, etc.).
 
-Табеле су посебно корисне када:
+Les taules són especialment útils quan:
 
-- желимо да прикажемо прецизне вредности,
+- volem mostrar valors precisos,
 
-- упоређујемо више категорија истовремено,
+- comparem diverses categories alhora,
 
-- тражимо конкретан податак.
+- busquem una dada concreta.
 
-Узмимо за пример мало предузеће које продаје школски прибор. На крају недеље направљена је табела у којој пише колико је продато свезака, оловака, ранчева и лењира. Док су ти подаци само појединачни рачуни, тешко можемо да стекнемо утисак о продаји. Али када их саберемо и прикажемо у табели, лако долазимо до закључка који се производ највише продаје, а који најмање.
+Posem com a exemple una petita empresa que ven material escolar. Al final de la setmana s'ha elaborat una taula que indica quants quaderns, llapis, motxilles i regle s'han venut. Mentre aquestes dades són només rebuts individuals, és difícil tenir una visió general de les vendes. Però quan les sumem i les mostrem en una taula, és fàcil concloure quin producte es ven més i quin menys.
 
-На пример: продато је 140 свезака, 113 оловака, 20 ранчева и 21 лењир. Све је јасно и прегледно на једном месту.
+Per exemple: s'han venut 140 quaderns, 113 llapis, 20 motxilles i 21 regles. Tot és clar i ordenat en un sol lloc.
 
-![Obična tabela](images/table_sr.png)
+![Taula simple](images/table_sr.png)
 
-## Графикони — подаци који се виде
+## Gràfics — les dades que es veuen
 
-Иако табела садржи тачне бројеве, много брже разумемо податке када их прикажемо као **графикон**.
+Encara que una taula conté xifres exactes, entenem les dades molt més ràpidament quan les representem amb un **gràfic**.
 
-Разликујемо неколико врста графикона. Основни и најчешће коришћени су:
+Distingim diversos tipus de gràfics. Els bàsics i més utilitzats són:
 
-- **Стубичасти графикон** (*column chart*) нам омогућава да одмах уочимо који се производ најбоље продаје.
+- **Gràfic de barres** (*column chart*) ens permet veure immediatament quin producte es ven millor.
 
-- **Пита (кружни) графикон** (*pie chart*) показује колики је удео сваког производа у укупној продаји.
+- **Gràfic circular** (*pie chart*) mostra quina és la quota de cada producte sobre el total de vendes.
 
-- **Линијски графикон** (*line chart*) бисмо користили када бисмо пратили како се продаја мењала из недеље у недељу или из месеца у месец.
+- **Gràfic de línies** (*line chart*) s'utilitzaria quan volem seguir com han canviat les vendes de setmana en setmana o de mes en mes.
 
-![Grafici](images/graph_sr.png)
+![Gràfics](images/graph_sr.png)
 
 ```{infonote}
-**Поређење категорија → стубичасти графикон**
+**Comparació de categories → gràfic de barres**
 
-**Део у односу на целину → пита графикон**
+**Part respecte al total → gràfic circular**
 
-**Промена кроз време → линијски графикон**
+**Canvi al llarg del temps → gràfic de línies**
 ```
 
-**Ако нисте сигурни - стубичасти графикон је скоро увек добар избор!**
+**Si no esteu segurs, el gràfic de barres gairebé sempre és una bona opció!**
 
 
 

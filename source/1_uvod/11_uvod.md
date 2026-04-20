@@ -1,41 +1,41 @@
-﻿# О лекцији
+﻿# Sobre la lliçó
 
-## Циљеви, исходи и време реализације
+## Objectius, resultats i temps de realització
 
-**Потребно време:** 2 школска часа (90 минута)
+**Temps necessari:** 2 hores lectives (90 minuts)
 
-### Циљеви
-- Развијање способности анализе података помоћу пивот табела у програму Microsoft Excel.
-- Стицање вештина визуелизације података помоћу графикона.
-- Вредновање и избор најефикаснијих начина за визуелно представљање података.
-- Унапређивање комуникацијских вештина и тимског рада кроз заједничко решавање проблема.
-- Увежбавање јасног и самоувереног представљања резултата групног рада.
+### Objectius
+- Desenvolupar la capacitat d'anàlisi de dades mitjançant taules dinàmiques al programa Microsoft Excel.
+- Adquirir habilitats de visualització de dades mitjançant gràfics.
+- Avaluar i seleccionar les formes més eficients de representació visual de dades.
+- Millorar les habilitats comunicatives i el treball en equip a través de la resolució conjunta de problemes.
+- Practicar la presentació clara i segura dels resultats del treball en grup.
 
-### Исходи
-До краја ове лекције ученици ће бити у стању да:
-- креирају и тумаче пивот табеле у програму Microsoft Excel ради организовања и анализе података,
-- направе одговарајуће графиконе (нпр. стубичасти, тракасти, секторски) за визуелни приказ сажетих података,
-- ефикасно сарађују у групи, деле одговорности и доприносе заједничком задатку,
-- уважавају различита мишљења и негују конструктивну комуникацију у тиму,
-- јасно и самоуверено представе групне закључке уз подршку визуелизација података.
+### Resultats
+Al final d'aquesta lliçó, els alumnes seran capaços de:
+- crear i interpretar taules dinàmiques al programa Microsoft Excel per organitzar i analitzar dades,
+- elaborar gràfics adequats (p. ex. de barres verticals, de barres horitzontals, de sectors) per a la representació visual de dades resumides,
+- col·laborar eficaçment en grup, repartir responsabilitats i contribuir a la tasca comuna,
+- respectar opinions diverses i fomentar una comunicació constructiva dins l'equip,
+- presentar de manera clara i segura les conclusions del grup amb el suport de visualitzacions de dades.
 
-У раду са подацима често није највећи изазов прикупљање, већ разумевање њиховог значења. Табеле често садрже и стотине редова, али одговоре на питања која нас заиста занимају не видимо увек на први поглед. Да бисмо уочили обрасце, упоредили вредности и донели закључке, потребан нам је начин да податке брзо организујемо и посматрамо из различитих углова. 
+En el treball amb dades, sovint el repte més gran no és recollir-les, sinó comprendre'n el significat. Les taules sovint contenen centenars de files, però les respostes a les preguntes que realment ens interessen no sempre les veiem a primera vista. Per detectar patrons, comparar valors i treure conclusions, necessitem una manera d'organitzar les dades ràpidament i observar-les des de diferents angles.
 
-Активност H2O (*Health Habits Observation*) има за циљ да кроз пример који вам је близак покаже како податке можете да претворите у корисне информације.  о навикама у исхрани, вежбању, коРадићете са стварним подацимаришћењу телефона, дружењу и спавању, које ћете сами прикупити и користити пивот табеле и пивот графиконе како бисте их анализирали и визуализовали (упитник за прикупљање података налази се у последњем блоку – Прилози). На тај начин видећете како исти скуп података може да одговори на различита питања - у зависности од тога како га организујемо.
+L'activitat H2O (*Health Habits Observation*) té com a objectiu mostrar, a través d'un exemple proper a vosaltres, com podeu convertir dades en informació útil. Treballareu amb dades reals sobre hàbits d'alimentació, exercici físic, ús del telèfon, socialització i son, que vosaltres mateixos recollireu, i fareu servir taules dinàmiques i gràfics dinàmics per analitzar-les i visualitzar-les (el qüestionari per a la recollida de dades es troba a l'últim bloc – Annexos). D'aquesta manera veureu com un mateix conjunt de dades pot respondre a preguntes diferents, en funció de com l'organitzem.
 
 
 ![Uvodna slika](images/uvod.png)
     
-Поред техничке вештине, ова активност треба да послужи и за развијање способности аналитичког размишљања попут постављања питања, избора начина приказа података и тумачења резултата. У савременом свету, где се одлуке све чешће заснивају на подацима, разумевање оваквих алата представља важан део дигиталне писмености.
+A més de l'habilitat tècnica, aquesta activitat ha de servir també per desenvolupar capacitats de pensament analític, com ara formular preguntes, triar la manera de mostrar les dades i interpretar els resultats. En el món actual, on les decisions es basen cada vegada més en dades, la comprensió d'aquestes eines és una part important de l'alfabetització digital.
 
-У наставку ћете научити:
-- шта је пивот табела и по чему се разликује од обичне табеле,
-- како се креира пивот табела у Excel-у,
-- како се подаци анализирају и тумаче,
-- како се резултати приказују помоћу пивот графикона.
+A continuació aprendreu:
+- què és una taula dinàmica i en què es diferencia d'una taula normal,
+- com es crea una taula dinàmica a Excel,
+- com s'analitzen i s'interpreten les dades,
+- com es mostren els resultats mitjançant gràfics dinàmics.
 
 ```{infonote}
-Циљ ове лекције није само да направите пивот табелу, већ да разумете како подаци постају информација.
+L'objectiu d'aquesta lliçó no és només crear una taula dinàmica, sinó entendre com les dades es converteixen en informació.
 ```
 
 
