@@ -1,65 +1,65 @@
-# Прилози
+# Annexos
 
-## Питања за ученике о сарадњи током израде задатка
+## Preguntes per als alumnes sobre la col·laboració durant la realització de la tasca
 
-### Функционисање групе (1–5)
+### Funcionament del grup (1–5)
 
-*(1 – уопште се не слажем | 5 – у потпуности се слажем)*
+*(1 – no hi estic gens d'acord | 5 – hi estic completament d'acord)*
 
-✔️ Сви чланови групе су активно учествовали у задатку  
-✔️ Слушали смо једни друге и поштовали свачије идеје  
-✔️ Одговорности смо поделили равноправно  
-✔️ Одлуке смо доносили заједно као тим  
-✔️ Пружали смо подршку једни другима када је некоме била потребна помоћ  
+✔️ Tots els membres del grup han participat activament en la tasca  
+✔️ Ens hem escoltat els uns als altres i hem respectat les idees de cadascú  
+✔️ Hem repartit les responsabilitats de manera equitativa  
+✔️ Hem pres les decisions conjuntament com a equip  
+✔️ Ens hem donat suport mútuament quan algú necessitava ajuda  
 
-### Моје учешће - питања за ученике (1–5)
+### La meva participació - preguntes per als alumnes (1–5)
 
-*(1 – уопште се не слажем | 5 – у потпуности се слажем)*
+*(1 – no hi estic gens d'acord | 5 – hi estic completament d'acord)*
 
-✔️ Износио/износила сам своје идеје и мишљење  
-✔️ Учествовао/учествовала сам у изради пивот табела  
-✔️ Учествовао/учествовала сам у изради графикона  
-✔️ Учествовао/учествовала сам у припреми закључака  
-✔️ Учествовао/учествовала сам у презентацији наше групе  
+✔️ He expressat les meves idees i opinions  
+✔️ He participat en l'elaboració de les taules dinàmiques  
+✔️ He participat en l'elaboració dels gràfics  
+✔️ He participat en la preparació de les conclusions  
+✔️ He participat en la presentació del nostre grup  
 
-### Чек-листа за наставнике о сарадњи током израде задатка
+### Llista de verificació per als professors sobre la col·laboració durant la realització de la tasca
 
-✔️ сви ученици имају улогу  
-✔️ постоји договор унутар групе  
-✔️ ученици образлажу своје одлуке  
-✔️ помажу једни другима  
-✔️ равномерно користе дигитални алат
+✔️ tots els alumnes tenen un rol  
+✔️ hi ha un acord dins del grup  
+✔️ els alumnes argumenten les seves decisions  
+✔️ s'ajuden els uns als altres  
+✔️ utilitzen l'eina digital de manera equitativa
 
-### Предлози питања за анкету о здравим навикама 
+### Propostes de preguntes per a l'enquesta sobre hàbits saludables 
 
-(**НАПОМЕНА: Анкета мора бити потпуно АНОНИМНА!**)
+(**NOTA: L'enquesta ha de ser completament ANÒNIMA!**)
 
-- Пол
-- Који си разред?
-- Колико сати у просеку спаваш у току ноћи?
-- Колико се одморно осећаш у току дана? (1-5)
-- Колико времена дневно користиш телефон?
-- Колико сати укупно проведеш гледајући у екран током дана? (ТВ + рачунар + телефон, унеси број сати)
-- Када најчешће користиш телефон?
-- За шта најчешће користиш телефон?
-- Да ли се бавиш спортом / редовно вежбаш?
-- Ако вежбаш, колико сати? (унеси број сати у току недеље)
-- Како се најчешће крећеш током дана?
-- Колико често возиш бицикл? (унеси број пута у току недеље)
-- Колико се дневно крећеш? (унеси број минута)
-- Да ли редовно доручкујеш?
-- Да ли имаш кућног љубимца?
-- Колико порција воћа у просеку поједеш у току недеље?
-- Колико често једеш слаткише или грицкалице? (унеси број пута у току недеље)
-- Колико воде попијеш дневно? (у литрама)
-- Колико се често смејеш? (1-5)
-- Како би оценио/оценила своје најчешће расположење? (1-5)
-- често се виђаш са другарима изван школе? (1-5)
-- Коју би навику највише волео/волела да побољшаш?
-- Колико важним сматраш за здрав и квалитетнији живот [довољно сна]? (1-5)
-- Колико важним сматраш за здрав и квалитетнији живот [мање времена на телефону]? (1-5)
-- Колико важним сматраш за здрав и квалитетнији живот [здрава исхрана]? (1-5)
-- Колико важним сматраш за здрав и квалитетнији живот [редовна физичка активност]? (1-5)
-- Колико важним сматраш за здрав и квалитетнији живот [добро расположење]? (1-5)
-- Да ли често боравиш у природи?
+- Gènere
+- Quin curs fas?
+- Quantes hores dormes de mitjana durant la nit?
+- Com de descansat/da et sents durant el dia? (1-5)
+- Quant de temps al dia fas servir el telèfon?
+- Quantes hores en total passes mirant una pantalla durant el dia? (TV + ordinador + telèfon, introdueix el nombre d'hores)
+- Quan fas servir el telèfon més sovint?
+- Per a què fas servir el telèfon més sovint?
+- Practiques algun esport / fas exercici regularment?
+- Si fas exercici, quantes hores? (introdueix el nombre d'hores durant la setmana)
+- Com et desplaces més sovint durant el dia?
+- Amb quina freqüència vas en bicicleta? (introdueix el nombre de vegades durant la setmana)
+- Quant de temps camines o et mous al dia? (introdueix el nombre de minuts)
+- Esmorzeu regularment?
+- Tens animal de companyia?
+- Quantes porcions de fruita menges de mitjana durant la setmana?
+- Amb quina freqüència menges dolços o aperitius? (introdueix el nombre de vegades durant la setmana)
+- Quanta aigua beus al dia? (en litres)
+- Amb quina freqüència rius? (1-5)
+- Com valoraries el teu estat d'ànim habitual? (1-5)
+- Amb quina freqüència quedem amb amics fora de l'escola? (1-5)
+- Quin hàbit t'agradaria millorar més?
+- Quina importància li dones per a una vida sana i de qualitat [dormir prou]? (1-5)
+- Quina importància li dones per a una vida sana i de qualitat [menys temps al telèfon]? (1-5)
+- Quina importància li dones per a una vida sana i de qualitat [alimentació saludable]? (1-5)
+- Quina importància li dones per a una vida sana i de qualitat [activitat física regular]? (1-5)
+- Quina importància li dones per a una vida sana i de qualitat [bon estat d'ànim]? (1-5)
+- Passes temps sovint a la natura?
 
