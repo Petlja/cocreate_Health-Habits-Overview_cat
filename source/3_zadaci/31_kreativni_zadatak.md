@@ -36,7 +36,3 @@ Recordatori per a una bona col·laboració en grup
 - Presentació – 10 punts
 
 
-## Enllaç al lloc per publicar les infografies elaborades
-
-[Consulta els treballs o publica el teu](https://shorturl.at/wG4WQ)
-
