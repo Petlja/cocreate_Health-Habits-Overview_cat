@@ -2,7 +2,7 @@
 
 ## Objectius, resultats i temps de realització
 
-**Temps necessari:** 2 hores lectives (90 minuts)
+**Temps necessari:** 3 hores lectives (135 minuts)
 
 ### Objectius
 - Desenvolupar la capacitat d'anàlisi de dades mitjançant taules dinàmiques al programa Microsoft Excel.

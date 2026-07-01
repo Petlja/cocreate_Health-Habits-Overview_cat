@@ -33,7 +33,7 @@
 :answer2: La taula dinàmica permet reorganitzar i resumir ràpidament grans quantitats de dades sense fórmules
 :answer3: La taula dinàmica permet el format automàtic de colors a les cel·les
 :answer4: La taula dinàmica corregeix automàticament els errors ortogràfics al fitxer d'origen
-:correct: 2
+:correct: 1
 
 4. Quin és el principal avantatge d'una taula dinàmica respecte a una taula de dades normal?
 ```
