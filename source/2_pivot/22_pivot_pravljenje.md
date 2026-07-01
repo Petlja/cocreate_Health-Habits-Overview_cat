@@ -22,7 +22,7 @@ Feu clic a *Insert* (1), *PivotTable* (2) i seleccioneu l'opció *From Table/Ran
 ![Pas 2](images/pivot2_sr.png)
 
 ### Pas 3: Trieu on voleu col·locar la taula dinàmica
-Podeu triar un full nou (*New Worksheet*) o una ubicació al mateix full (*Existing Worksheet*) (4) (en aquest cas cal fer clic a la cel·la que serà l'angle superior esquerre de la taula dinàmica) (5). Confirmeu fent clic a *Ok*. (6)
+Podeu triar un full nou (*New Worksheet*) o una ubicació al mateix full (*Existing Worksheet*) (4) (en aquest cas cal fer clic a la cel·la que serà l'angle superior esquerre de la taula dinàmica) i confirmar fent clic a *OK* (5).
 
 ![Pas 3](images/pivot3_sr.png)
 
@@ -38,7 +38,7 @@ Per al primer exemple de la introducció, hem arrossegat el camp *fruita* a la z
 
 
 ```{infonote}
-La manera de calcular a l'àrea Values es pot canviar mitjançant l'opció Value Field Settings. A més de la suma per defecte (Sum), també estan disponibles Average (mitjana), Count (nombre d'entrades), Min i Max. És important saber que, si es col·loca un camp de text a l'àrea Values, la taula dinàmica mostrarà automàticament el nombre d'aparicions d'aquest text (Count) en lloc de la suma.
+La manera de calcular a l'àrea Values es pot canviar mitjançant l'opció Value Field Settings. A més de la suma per defecte (Sum), també estan disponibles Average (mitjana), Count (recompte), Max (màxim) i Min (mínim).
 ```
 
 ### Pas 6: Afegiu columnes (opcional)
@@ -47,10 +47,10 @@ La taula que mostra també la manera com els clients han pagat s'ha obtingut afe
 ![Pas 6](images/pivot6_sr.png)
 
 ```{infonote}
-Si us passa que s'ha tancat el panell de la dreta que permet configurar la visualització de la taula dinàmica, podeu tornar-lo a obrir fent clic a qualsevol cel·la de la taula dinàmica i seleccionant l'opció Show field list.
+Si us passa que s'ha tancat el panell de la dreta que permet configurar la visualització de la taula dinàmica, podeu tornar-lo a obrir fent clic a qualsevol cel·la de la taula dinàmica i seleccionant l'opció corresponent.
 ```
 ### Pas 7: Afegiu filtres (opcional)
-Afegir filtres us permetrà extreure i mostrar ràpidament, d'una gran quantitat de dades, només els valors que necessiteu en un moment determinat, sense modificar la taula inicial ni fer càlculs addicionals. 
+Afegir filtres us permetrà extreure i mostrar ràpidament, d'una gran quantitat de dades, només els valors que necessiteu en un moment determinat, sense modificar la taula inicial ni fer càlculs manuals.
 
 ```{infonote}
 Tot i que la taula dinàmica està vinculada a la taula original, els canvis que s'hi fan no s'actualitzen automàticament. Després de cada modificació cal fer clic dret sobre la taula dinàmica i seleccionar l'opció Refresh perquè tots els resultats s'actualitzin.

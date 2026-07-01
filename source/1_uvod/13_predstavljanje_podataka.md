@@ -2,7 +2,7 @@
 
 ## Taula simple
 
-La manera més senzilla d'organitzar i mostrar dades és presentar-les en una **taula**.
+La manera més senzilla d'organitzar i mostrar dades és presentar-les en una **taula**. I quan baixem o recollim dades, normalment arriben ja organitzades com a taula.
 Les files representen elements individuals (per exemple, productes, empleats o mesos), i les columnes les seves característiques (quantitat venuda, ingressos obtinguts, etc.).
 
 Les taules són especialment útils quan:
@@ -13,7 +13,7 @@ Les taules són especialment útils quan:
 
 - busquem una dada concreta.
 
-Posem com a exemple una petita empresa que ven material escolar. Al final de la setmana s'ha elaborat una taula que indica quants quaderns, llapis, motxilles i regle s'han venut. Mentre aquestes dades són només rebuts individuals, és difícil tenir una visió general de les vendes. Però quan les sumem i les mostrem en una taula, és fàcil concloure quin producte es ven més i quin menys.
+Posem com a exemple una petita empresa que ven material escolar. Al final de la setmana s'ha elaborat una taula que indica quants quaderns, llapis, motxilles i regle s'han venut.
 
 Per exemple: s'han venut 140 quaderns, 113 llapis, 20 motxilles i 21 regles. Tot és clar i ordenat en un sol lloc.
 
@@ -42,6 +42,3 @@ Distingim diversos tipus de gràfics. Els bàsics i més utilitzats són:
 ```
 
 **Si no esteu segurs, el gràfic de barres gairebé sempre és una bona opció!**
-
-
-

@@ -2,7 +2,7 @@
 status: exclude
 alias: cocreate-health-habits_cat
 short_description: Anàlisi de dades sobre hàbits saludables
-lang: en
+lang: ca
 long_description: >
     <p>Aquest curs introdueix els alumnes en l'anàlisi de dades mitjançant taules dinàmiques i gràfics dinàmics. A través del treball pràctic a l'ordinador, els alumnes aprenen a organitzar, agrupar, filtrar i presentar visualment les dades, així com a extreure'n conclusions. Al llarg del curs, els alumnes notaran les diferències entre les taules i els gràfics convencionals i els dinàmics, i desenvoluparan progressivament confiança en l'anàlisi de dades mitjançant el treball col·laboratiu.</p>
     <p>El curs s'ha creat en el marc del projecte Erasmus+ <a rel="license" href="https://erasmus-cocreate.petlja.org">CoCreate - Computer-Supported Collaborative Learning for Inclusive Education</a>.</p>

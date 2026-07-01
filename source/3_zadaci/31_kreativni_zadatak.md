@@ -3,23 +3,23 @@
 
 ## Descripció de la tasca
 
-Després de realitzar una enquesta sobre els hàbits saludables dels alumnes i analitzar les dades recollides, la vostra tasca és triar un resultat i presentar-lo a través d'una campanya creativa.
+La nostra proposta és que realitzeu una enquesta, ja sigui presencialment o en línia, per exemple mitjançant Google Forms (les preguntes suggerides es troben a l'annex al final del curs). Idealment, un cop duta a terme l'enquesta sobre els hàbits saludables dels alumnes i analitzades les dades recollides, la vostra tasca és dividir-vos en grups de 4-5 alumnes i conjuntament: 1) primer analitzar les dades, i 2) a continuació, triar un resultat i presentar-lo a través d'una campanya creativa, similar a les que podria crear el Ministeri de Salut o una organització local.
 
 - Analitzeu les dades aplicant taules dinàmiques i gràfics i destaqueu un o més fets que considereu significatius
 - Creeu un eslògan (curt, clar, positiu)
-- Elaboreu una infografia
-- Presenteu el resultat a la classe
+- Elaboreu una infografia (i un text breu de suport si cal)
+- Presenteu el resultat (presentació, pòster o vídeo) a la classe
 
 ![Campanya](kampanja.png)
 
 ```{infonote}
 Recordatori per a una bona col·laboració en grup
 
-- Ens escoltem els uns als altres.
-- Tothom té l'oportunitat de contribuir.
-- Repartim les tasques de comú acord.
-- Prenem les decisions conjuntament.
-- Ens ajudem els uns als altres.
+- Ens escoltem els uns als altres, amb paciència i sense parlar per sobre dels altres.
+- Tothom ha d'expressar de manera constructiva la seva opinió i contribuir al treball del grup.
+- Repartim les tasques de comú acord, d'acord amb els interessos i coneixements de cadascú.
+- Prenem les decisions conjuntament, mitjançant la discussió, sense imposar l'opinió de ningú.
+- Ens ajudem els uns als altres en les tasques.
 ```
 
 ## Consells per a una bona representació visual de dades (infografia)
@@ -28,11 +28,10 @@ Recordatori per a una bona col·laboració en grup
 - Gràfic: incloure sempre un gràfic dinàmic
 - Crida a l'acció: un pas concret
 
-## Criteris d'avaluació
-- Exactitud de les dades – 30 punts
-- Claredat del missatge – 25 punts
-- Creativitat de l'eslògan – 20 punts
+## Criteris d'avaluació de la tasca creativa
+- Exactitud de les dades – 40 punts
+- Claredat del missatge – 20 punts
+- Creativitat de l'eslògan – 15 punts
 - Disseny visual – 15 punts
 - Presentació – 10 punts
-
 

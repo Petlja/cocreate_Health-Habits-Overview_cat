@@ -2,7 +2,7 @@
 
 ## Objectius, resultats i temps de realització
 
-**Temps necessari:** 2 hores lectives (90 minuts)
+**Temps necessari:** 3 hores lectives (135 minuts)
 
 ### Objectius
 - Desenvolupar la capacitat d'anàlisi de dades mitjançant taules dinàmiques al programa Microsoft Excel.
@@ -19,14 +19,14 @@ Al final d'aquesta lliçó, els alumnes seran capaços de:
 - respectar opinions diverses i fomentar una comunicació constructiva dins l'equip,
 - presentar de manera clara i segura les conclusions del grup amb el suport de visualitzacions de dades.
 
-En el treball amb dades, sovint el repte més gran no és recollir-les, sinó comprendre'n el significat. Les taules sovint contenen centenars de files, però les respostes a les preguntes que realment ens interessen no sempre les veiem a primera vista. Per detectar patrons, comparar valors i treure conclusions, necessitem una manera d'organitzar les dades ràpidament i observar-les des de diferents angles.
+En el treball amb dades, sovint el repte més gran no és recollir-les, sinó comprendre'n el significat. Les taules sovint contenen centenars de files, però les relacions entre les dades no sempre es veuen de seguida.
 
-L'activitat H2O (*Health Habits Observation*) té com a objectiu mostrar, a través d'un exemple proper a vosaltres, com podeu convertir dades en informació útil. Treballareu amb dades reals sobre hàbits d'alimentació, exercici físic, ús del telèfon, socialització i son, que vosaltres mateixos recollireu, i fareu servir taules dinàmiques i gràfics dinàmics per analitzar-les i visualitzar-les (el qüestionari per a la recollida de dades es troba a l'últim bloc – Annexos). D'aquesta manera veureu com un mateix conjunt de dades pot respondre a preguntes diferents, en funció de com l'organitzem.
+L'activitat H2O (*Health Habits Observation*) té com a objectiu mostrar, a través d'un exemple proper a vosaltres, com podeu convertir dades en informació útil. Treballareu amb dades sobre hàbits saludables dels alumnes per veure com, a partir d'una gran quantitat de respostes individuals, es poden extreure conclusions clares.
 
 
 ![Uvodna slika](images/uvod.png)
     
-A més de l'habilitat tècnica, aquesta activitat ha de servir també per desenvolupar capacitats de pensament analític, com ara formular preguntes, triar la manera de mostrar les dades i interpretar els resultats. En el món actual, on les decisions es basen cada vegada més en dades, la comprensió d'aquestes eines és una part important de l'alfabetització digital.
+A més de l'habilitat tècnica, aquesta activitat ha de servir també per desenvolupar capacitats de pensament analític, com ara formular preguntes, triar la manera de mostrar les dades i interpretar el que observen.
 
 A continuació aprendreu:
 - què és una taula dinàmica i en què es diferencia d'una taula normal,
