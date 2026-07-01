@@ -5,7 +5,7 @@
 
 La nostra proposta és que realitzeu una enquesta, ja sigui en persona o en línia, per exemple mitjançant Google Forms (la proposta de preguntes es troba a l'annex al final del curs), però per a aquest exercici també podeu fer servir qualsevol base de dades ja existent.
 
-Per tant, idealment, després de realitzar una enquesta sobre els hàbits saludables dels alumnes i analitzar les dades recollides, la vostra tasca és dividir-vos en grups de 4–5 alumnes i, conjuntament: 1) primer analitzar les dades i 2) a continuació triar un resultat i presentar-lo a través d'una campanya creativa, com la que podria crear el Ministeri de Salut o alguna organització local.
+Per tant, idealment, una vegada realitzada una enquesta sobre els hàbits saludables dels alumnes i analitzades les dades recollides, la vostra tasca és dividir-vos en grups de 4–5 alumnes. Conjuntament haureu de: 1) primer analitzar les dades i 2) a continuació triar un resultat i presentar-lo a través d'una campanya creativa, com la que podria crear el Ministeri de Salut o alguna organització local.
 
 - Analitzeu les dades aplicant taules dinàmiques i gràfics i destaqueu un o més fets que considereu significatius
 - Creeu un eslògan (curt, clar, positiu)

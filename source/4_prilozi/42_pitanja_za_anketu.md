@@ -11,7 +11,7 @@
 - Quan fas servir el telèfon més sovint?
 - Per a què fas servir el telèfon més sovint?
 - Practiques algun esport / fas exercici regularment? (sí/no)
-- Si fas exercici, quantes hores? (introdueix el nombre d'hores durant la setmana)
+- Si fas exercici, quantes hores? (si has respost no, omete aquesta pregunta o introdueix 0; si has respost sí, introdueix el nombre d'hores durant la setmana)
 - Amb quina freqüència vas en bicicleta? (introdueix el nombre de vegades durant la setmana)
 - Quant de temps camines o et mous al dia? (introdueix el nombre de minuts)
 - Esmorzeu regularment? (sí/no)
