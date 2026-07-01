@@ -1,8 +1,8 @@
-# Annexos
+# Preguntes per als alumnes sobre la col·laboració durant la realització de la tasca
 
-## Preguntes per als alumnes sobre la col·laboració durant la realització de la tasca
+En realitzar tasques complexes, és bo comprovar com ens hem sortit en el treball en grup i com ha funcionat el grup en general. Proposem que cada membre del grup avaluï per separat el treball del grup i la seva pròpia contribució, i que després compartiu les vostres valoracions i impressions en una discussió de cinc minuts.
 
-### Funcionament del grup (1–5)
+## Funcionament del grup (1–5)
 
 *(1 – no hi estic gens d'acord | 5 – hi estic completament d'acord)*
 
@@ -12,7 +12,7 @@
 ✔️ Hem pres les decisions conjuntament com a equip  
 ✔️ Ens hem donat suport mútuament quan algú necessitava ajuda  
 
-### La meva participació - preguntes per als alumnes (1–5)
+## La meva participació - preguntes per als alumnes (1–5)
 
 *(1 – no hi estic gens d'acord | 5 – hi estic completament d'acord)*
 
@@ -22,44 +22,14 @@
 ✔️ He participat en la preparació de les conclusions  
 ✔️ He participat en la presentació del nostre grup  
 
-### Llista de verificació per als professors sobre la col·laboració durant la realització de la tasca
+## Avaluació del treball del grup per part del professor
+
+Recomanem que les valoracions que heu compartit en el grup les compartiu finalment també amb el professor. Només d'aquesta manera tots tindran una imatge realista del treball del grup i de la contribució de cada individu.
+
+Llista de verificació per als professors sobre la col·laboració durant la realització de la tasca
 
 ✔️ tots els alumnes tenen un rol  
 ✔️ hi ha un acord dins del grup  
 ✔️ els alumnes argumenten les seves decisions  
 ✔️ s'ajuden els uns als altres  
 ✔️ utilitzen l'eina digital de manera equitativa
-
-### Propostes de preguntes per a l'enquesta sobre hàbits saludables 
-
-(**NOTA: L'enquesta ha de ser completament ANÒNIMA!**)
-
-- Gènere
-- Quin curs fas?
-- Quantes hores dormes de mitjana durant la nit?
-- Com de descansat/da et sents durant el dia? (1-5)
-- Quant de temps al dia fas servir el telèfon?
-- Quantes hores en total passes mirant una pantalla durant el dia? (TV + ordinador + telèfon, introdueix el nombre d'hores)
-- Quan fas servir el telèfon més sovint?
-- Per a què fas servir el telèfon més sovint?
-- Practiques algun esport / fas exercici regularment?
-- Si fas exercici, quantes hores? (introdueix el nombre d'hores durant la setmana)
-- Com et desplaces més sovint durant el dia?
-- Amb quina freqüència vas en bicicleta? (introdueix el nombre de vegades durant la setmana)
-- Quant de temps camines o et mous al dia? (introdueix el nombre de minuts)
-- Esmorzeu regularment?
-- Tens animal de companyia?
-- Quantes porcions de fruita menges de mitjana durant la setmana?
-- Amb quina freqüència menges dolços o aperitius? (introdueix el nombre de vegades durant la setmana)
-- Quanta aigua beus al dia? (en litres)
-- Amb quina freqüència rius? (1-5)
-- Com valoraries el teu estat d'ànim habitual? (1-5)
-- Amb quina freqüència quedem amb amics fora de l'escola? (1-5)
-- Quin hàbit t'agradaria millorar més?
-- Quina importància li dones per a una vida sana i de qualitat [dormir prou]? (1-5)
-- Quina importància li dones per a una vida sana i de qualitat [menys temps al telèfon]? (1-5)
-- Quina importància li dones per a una vida sana i de qualitat [alimentació saludable]? (1-5)
-- Quina importància li dones per a una vida sana i de qualitat [activitat física regular]? (1-5)
-- Quina importància li dones per a una vida sana i de qualitat [bon estat d'ànim]? (1-5)
-- Passes temps sovint a la natura?
-
