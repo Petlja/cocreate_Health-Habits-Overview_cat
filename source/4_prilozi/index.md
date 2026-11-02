@@ -1,7 +1,7 @@
 ---
 status: exclude
 ---
-# Annexos i enllaços
+# Annexos
 
 ```{toctree}
 :maxdepth: 2
